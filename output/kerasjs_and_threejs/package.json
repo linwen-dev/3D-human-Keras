@@ -1,0 +1,19 @@
+{
+  "name": "kerasjs_and_threejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James",
+  "license": "ISC",
+  "dependencies": {
+    "d3-random": "^1.0.1",
+    "dat-gui": "^0.5.0",
+    "keras-js": "git+https://github.com/transcranial/keras-js.git#dcad54d47b94131fb3f3fa8ab51fb1cb576b0118",
+    "lodash": "^4.17.2",
+    "three": "^0.82.1",
+    "weblas": "^0.9.0"
+  }
+}
